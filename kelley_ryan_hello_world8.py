@@ -2,3 +2,8 @@
 print("Hello, world! ")
 print("My name is Ryan and I am in perido 8B.")
 print("Put whatever you want on this line.")
+
+fav_color = input("What is your favorite color?\n")
+print(fav_color)
+
+print(fav_color + fav_color) # String Concatenation 
