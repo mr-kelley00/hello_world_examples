@@ -7,19 +7,9 @@ namespace HelloWorld
 // []  Brackets 
 {
     class Hello {
-
-
-
-
+        static void Main(string[] args) {
+            System.Console.WriteLine("Hello, world!");
+            System.Console.WriteLine("And another one...");
+        }
     }
-
-
-
-
-
-
-
-
-
-
 }
